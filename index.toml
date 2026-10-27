@@ -1886,11 +1886,6 @@ hash = "d2b89085f7dd19d6f074f132a5eeb236d9131888c8f7e40c7a14824b7daf3909"
 metafile = true
 
 [[files]]
-file = "mods/occultism.pw.toml"
-hash = "212f60ad3c799006907174dcd1e8b530cd6508efb0e27151a0b37c8b0a15a39a"
-metafile = true
-
-[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "a525007d8aff0c5ce3fb486b58406a9d33a7aac674afd0ce6de40ec33eace917"
 metafile = true
@@ -2078,6 +2073,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "6c7488f67eba5501f86e7ad689c346597e51b6723f037a8b078768d83f48bb5a"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "0cd75ffafb20ec9048044e337b8c1720ee471a426c4dc6c389ba9a5765052bae"
 metafile = true
 
 [[files]]
