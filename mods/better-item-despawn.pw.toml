@@ -1,6 +1,6 @@
 name = "Better Item Despawn"
 filename = "Better Item Despawn - Neoforge-26.1.2-1.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

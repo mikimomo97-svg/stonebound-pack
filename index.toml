@@ -1362,7 +1362,7 @@ metafile = true
 
 [[files]]
 file = "mods/auto-pickup-filter.pw.toml"
-hash = "031cb190303a2712a9fb042ca961d24131613937b01354c6d85130e3cc9a395c"
+hash = "14bb9eae64ba64c8c47e29a2440075683ca2581fd5ce90510612350619e6b436"
 metafile = true
 
 [[files]]
@@ -1402,7 +1402,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-item-despawn.pw.toml"
-hash = "f976c097f770daf97988446a8ff193460f08b0fb29b27a5b2fb010d993786e35"
+hash = "665cb9851f09a39f6d551f912f2db5cbde5091f90af75858c1ef219c1b55210e"
 metafile = true
 
 [[files]]
@@ -1527,7 +1527,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-nether-portals.pw.toml"
-hash = "9aaa729d922a2488c68faf6b0b89e75700111891b8961cc4c04c78c2dafd983f"
+hash = "a41bed1fd967d21e37f29c3b1245314dfce87d25283f2b9694de8fef8882d860"
 metafile = true
 
 [[files]]
@@ -1737,7 +1737,7 @@ metafile = true
 
 [[files]]
 file = "mods/locked-slots-improved.pw.toml"
-hash = "75c0a7210662475fa58d903b11b846df7b019d63bde6fc33464372724600ee57"
+hash = "74e12687edc867fd6982db4c8ae4eb0396d92812bf4cf4a8353cfd535788cc45"
 metafile = true
 
 [[files]]
@@ -1862,7 +1862,7 @@ metafile = true
 
 [[files]]
 file = "mods/multi-arrow-effects.pw.toml"
-hash = "a8e691909a17be7250649a2ee460ad5298210a2ece647739732c66b8aad86504"
+hash = "6b392015c8902b1d1b6eca3d985a8230ade6689e455a2e37f1ae1e5bfd031bd7"
 metafile = true
 
 [[files]]
@@ -2017,7 +2017,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "411be936c8db5e39300bcafaa7707b236d9a6bbaaf2171879b56b19d5ceea6ca"
+hash = "cea263ebc99c632ecda66dd350fb7e4eaf3a586f3f09f2a9be8943bc6f5d84c2"
 metafile = true
 
 [[files]]

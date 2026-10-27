@@ -1,6 +1,6 @@
 name = "Multi Arrow Effects [Multiple Effects on One Arrow]"
 filename = "MultiArrowEffects-Neoforge-26.1.2-2.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
