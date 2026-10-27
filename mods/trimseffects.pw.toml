@@ -1,0 +1,13 @@
+name = "TrimsEffects - 2.1 NOW AVAILABLE!"
+filename = "trimeffects-neoforge-mc26.1.2-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24246a5a9b358e13074a42b138eba80b3712151a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7950849
+project-id = 870275

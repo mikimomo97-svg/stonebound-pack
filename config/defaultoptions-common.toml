@@ -1,0 +1,7 @@
+#The default difficulty selected for newly created worlds.
+#Allowed Values: PEACEFUL, EASY, NORMAL, HARD
+defaultDifficulty = "NORMAL"
+#Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?
+lockDifficulty = false
+#Resource pack IDs to have enabled by default on the first run.
+defaultResourcePacks = ["vanilla", "mod_resources", "file/Beautiful Enchanted Books - MC 1.21.10 - 8.0.0.zip", "file/Better Lanterns v1.3.2 - 26.1.zip", "file/Enchantment Glows v1.11.1.zip", "file/FA+All_Extensions-v1.9.2.zip", "file/FA+Player-v1.1.zip", "file/Fancy Crops v1.3.zip", "file/FreshAnimations_v1.10.5.zip", "file/LowOnFire v26.1§8.zip", "file/[1.6] Enhanced Boss Bars.zip", "moonlight:merged_pack"]

@@ -1,0 +1,13 @@
+name = "Structure Essentials"
+filename = "structureessentials-26.1-5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ca6dccb32a1a78cbf8e2da779da34c133ba0ce9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9271116
+project-id = 832882

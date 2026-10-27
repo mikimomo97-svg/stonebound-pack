@@ -1,0 +1,13 @@
+name = "Sorted - Inventory & Chest Sorting, Quick Stack"
+filename = "sorted-neoforge-0.1.27+26.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "7fc0d91ee8f6bca6ffb2a696233a3de922fbb3cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9191344
+project-id = 1595605

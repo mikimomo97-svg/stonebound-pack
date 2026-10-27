@@ -1,0 +1,13 @@
+name = "Simple Villager Follow"
+filename = "simple_villager_follow-26.1.2-NeoForge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea0bf1420321eb432ac2e9efb652b233245fb982"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7996739
+project-id = 1295438

@@ -1,0 +1,13 @@
+name = "Pipez"
+filename = "pipez-neoforge-1.2.30+26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "654b295a9767b97a24b63e0020bbe4aaccbcfcaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8053422
+project-id = 443900

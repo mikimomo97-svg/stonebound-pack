@@ -1,0 +1,13 @@
+name = "Dis-Enchanting Table"
+filename = "disenchanting_table-neoforge-26.1.2-6.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e975515f37852fcd8dbc5a227fabb5ed6565092"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8430046
+project-id = 933354

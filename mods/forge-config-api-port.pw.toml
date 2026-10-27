@@ -1,0 +1,13 @@
+name = "Forge Config API Port"
+filename = "ForgeConfigAPIPort-v26.1.5-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f99b14a8243bde17bebcb8ab460ff0c42d45ef2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8218662
+project-id = 547434

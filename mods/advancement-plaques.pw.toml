@@ -1,0 +1,13 @@
+name = "Advancement Plaques [Neo/Forge]"
+filename = "AdvancementPlaques-26.1.2-neoforge-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14c177d1e8c9ddab9660b8c4454277b8736dee2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8308382
+project-id = 499826

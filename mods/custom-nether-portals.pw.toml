@@ -1,0 +1,13 @@
+name = "Custom Nether Portals [Any Shape Nether Portals]"
+filename = "Custom Nether Portals - Neoforge - MC 26.1.2- 3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff219201afb354669ac09881da0b5ca94d2ebfca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8982158
+project-id = 1302224

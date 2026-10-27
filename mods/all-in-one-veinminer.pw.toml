@@ -1,0 +1,13 @@
+name = "All-in-One VeinMiner & TreeFeller "
+filename = "All-in-One-VeinMiner-TreeFelle-1.1.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1593b7a513ce0c35d96a5ef1f84df346cfe532fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9234489
+project-id = 1455090

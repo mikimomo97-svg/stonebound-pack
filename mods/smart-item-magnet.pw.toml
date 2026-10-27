@@ -1,0 +1,13 @@
+name = "Smart Item Magnet"
+filename = "Item-Magnet-Neoforge-26.1.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac60bdc72aac5fc16940a44ad3f7327ae62ae979"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8866542
+project-id = 1692997

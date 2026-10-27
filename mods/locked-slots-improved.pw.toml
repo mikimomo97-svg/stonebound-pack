@@ -1,0 +1,13 @@
+name = "Locked Slots Improved"
+filename = "LockedSlots-Neoforge-26.1.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec3496934cec92d512ac50a965e88537726839dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8965268
+project-id = 1710065

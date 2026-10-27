@@ -1,0 +1,13 @@
+name = "Modonomicon"
+filename = "modonomicon-26.1.2-neoforge-1.148.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a4789679a4ed323a26f5b59d733749ac9f4a8a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8225565
+project-id = 538392

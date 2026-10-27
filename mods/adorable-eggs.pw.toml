@@ -1,0 +1,13 @@
+name = "Adorable Eggs - New Spawn Eggs and Plushies"
+filename = "adorable_eggs-NeoForge-26.1.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcd8ed95a88875274025e1da428ed3dd9de7bc93"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8097546
+project-id = 1257245

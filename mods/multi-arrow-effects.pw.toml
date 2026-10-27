@@ -1,0 +1,13 @@
+name = "Multi Arrow Effects [Multiple Effects on One Arrow]"
+filename = "MultiArrowEffects-Neoforge-26.1.2-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "acb67af1161670ab4157bc76a076959af33706e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9011046
+project-id = 1396590

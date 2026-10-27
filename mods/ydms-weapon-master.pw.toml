@@ -1,0 +1,13 @@
+name = "YDM's Weapon Master"
+filename = "weaponmaster-neoforge-26.1.1-4.4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52e736b880d2eb7d1b53bd0ebb461a634f6c992c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7856058
+project-id = 608235

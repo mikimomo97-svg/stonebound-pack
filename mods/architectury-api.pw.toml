@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-neoforge-20.1.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de13193e76414c3ebff9069551bb5e633603c1b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8985592
+project-id = 419699

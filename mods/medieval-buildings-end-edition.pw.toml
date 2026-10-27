@@ -1,0 +1,13 @@
+name = "Medieval Buildings [End Edition]"
+filename = "medieval_end-neoforge-26.1.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b7392488304b12806c70f195538894afc891e78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8257086
+project-id = 976817
