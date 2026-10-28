@@ -1,0 +1,13 @@
+name = "Fabric Custom Names"
+filename = "customname-neoforge-0.4.3-26.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/saIlazMs/versions/rjmMbpX4/customname-neoforge-0.4.3-26.1.1.jar"
+hash-format = "sha512"
+hash = "d4402d3857061ef2e1f47434fa0b11b562250dbb004281e4ba5193e09303f8be940353f263fc02aca78122a33e31dfa69581838ad909ba8a084e869d5556712f"
+
+[update]
+[update.modrinth]
+mod-id = "saIlazMs"
+version = "rjmMbpX4"

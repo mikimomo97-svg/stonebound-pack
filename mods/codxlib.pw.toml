@@ -1,0 +1,13 @@
+name = "CodxLib"
+filename = "codxlib-1.6.1-neoforge+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6oyMM4yX/versions/sJnMZYnV/codxlib-1.6.1-neoforge%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "6f370e6d956aa718a6b195f844a60e4eda8777c341a2034680b3c75545f1809c42cb21f107740392d0a18a3082b7bdeb3309e1f7a6ef8c11fde2e47912c1122a"
+
+[update]
+[update.modrinth]
+mod-id = "6oyMM4yX"
+version = "sJnMZYnV"

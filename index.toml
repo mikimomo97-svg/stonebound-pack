@@ -1321,6 +1321,11 @@ hash = "9ace9c9b5de9f6faebfc7a53e62c6698aac372de5dbe9fc71c3d74b94857e3b3"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs-continued.pw.toml"
+hash = "cbd0ad013b4be25f01b4a32343924293fc63bf87238b9716628e5906a5c697ff"
+metafile = true
+
+[[files]]
 file = "mods/all-in-one-veinminer.pw.toml"
 hash = "a34f19a4825409973f3aaf9aed0d8700ef72ab6fdfa1e12b7af9c90a3c8174cc"
 metafile = true
@@ -1451,6 +1456,11 @@ hash = "67c36b12d8bebdf4b1e07db254a3dac8a92153fc4b5937dc3d7ecfa4ed67dfe5"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "dc653c67bfffcba271ac1de8ed61844adfb9347b9b18dcef1b8b9613b8164f55"
+metafile = true
+
+[[files]]
 file = "mods/clean-swing-through-grass.pw.toml"
 hash = "a2082c8b1f93c0391f305d0a74419e7cfc599561d7fc6cf3e1fcebbac086183f"
 metafile = true
@@ -1463,6 +1473,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "430d0ebb018edf74670f7a2aafb5c02b9907cddfd726dd47ec406b534618c955"
+metafile = true
+
+[[files]]
+file = "mods/codxlib.pw.toml"
+hash = "f8d1c3fcce700ef7429a0e02501b83c52b7ec5f845131ff831510e2171b32d2d"
 metafile = true
 
 [[files]]
@@ -1588,6 +1603,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "8d0f3e17f96b895720a3d9bc73f71e46388f4dbea1ac4a6d3c2c0084d253f93c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-custom-names.pw.toml"
+hash = "16243e3c6c5744ac57093cab104500c9a038d6e5dffe30410c738a0155a2eae0"
 metafile = true
 
 [[files]]
@@ -1732,7 +1752,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "52eaf7266d5c1080fd8ab1ec5ebfbaa6310a054259db0f6d3647c4af15de54cb"
+hash = "36c1fd3cee058f1e2fbceb2f45f30be2b763a74b73125dfa408d4b8bde410666"
 metafile = true
 
 [[files]]
@@ -1743,6 +1763,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "9cf731291dcb08804960c86b443af7251ef228ed4609a1087d77b28135cc06ab"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "c1bd2a3ffa72a90899ea5c3dcda120cd9948c552fd696eb439e6d176080e6e83"
 metafile = true
 
 [[files]]
@@ -2023,6 +2048,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "3b5a0b8b1feba1f2b18a9fc483000433b48485f71209201e1bfa58f56797f93c"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "00e54d9616170f15c994803b0686751d7ab8cd7dd968898fe3221375f691f6bd"
 metafile = true
 
 [[files]]
